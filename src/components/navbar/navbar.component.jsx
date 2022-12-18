@@ -14,12 +14,12 @@ const Navbar = () => {
         {
             id: "navbar-item-proximity",
             name: "Proximity",
-            route: "/"
+            route: "/mapsdemo/"
         },
         {
             id: "navbar-item-audience",
             name: "Audience",
-            route: "/"
+            route: "/mapsdemo/"
         }
     ];
 

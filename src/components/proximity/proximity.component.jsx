@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { useDispatch } from 'react-redux';
 import { changeComponent } from '../navbar/navbar.reducer';
+/* eslint import/no-webpack-loader-syntax: off */
 import mapboxgl from '!mapbox-gl';
 import PureCounter from "@srexi/purecounterjs/js/purecounter";
 import { ColorPicker } from 'primereact/colorpicker';

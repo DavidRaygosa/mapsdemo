@@ -16,7 +16,7 @@ function App() {
         <Routes />
       </section>
       <footer id='footer'>
-        footer
+        This application was built only for demostration
       </footer>
     </section>
   );
