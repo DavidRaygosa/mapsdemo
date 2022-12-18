@@ -1,0 +1,28 @@
+.proximity-aside-left-title{
+    font-size: 1.2rem;
+    font-weight: 600;
+}
+
+#proximity-aside-left-settings{
+    border-bottom: 2px solid #ccc
+}
+
+#proximity-aside-right-reach{
+    border-bottom: 2px solid #ccc 
+}
+
+.p-slider-range{
+    background-color: #8c239e !important;
+}
+
+.p-slider-handle{
+    border-color: #8c239e !important;
+}
+
+.p-slider-handle:hover{
+    background-color: #8c239e !important;
+}
+
+.p-slider-handle:focus{
+    box-shadow: none !important;
+}

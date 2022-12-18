@@ -1,0 +1,21 @@
+.fullView{
+  height: 100vh;
+}
+
+.pointer{
+  cursor: pointer;
+}
+
+#header{
+  height: 5%;
+}
+
+#section{
+  height: 92%;
+  overflow-x: hidden;
+  overflow-y: scroll;
+}
+
+#footer{
+  height: 3%;
+}
