@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { useDispatch } from 'react-redux';
 import { changeComponent } from '../navbar/navbar.reducer';
-import mapboxgl from 'mapbox-gl';
+import mapboxgl from '!mapbox-gl';
 import PureCounter from "@srexi/purecounterjs/js/purecounter";
 import { ColorPicker } from 'primereact/colorpicker';
 import { Slider } from 'primereact/slider';
